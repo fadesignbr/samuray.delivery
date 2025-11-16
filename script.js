@@ -57,7 +57,7 @@ const PRODUCTS = [
   { id:'sob4', category:'No Prato', name:'Mega Alcatra', desc:'Pão, alcatra acebolado, queijo, presunto, ovo,bacon, molho de mostarda e mel, alface, tomate e molho.', price:14.90, img:'categorias img/indisponível no momento.png' },
  
   // PORÇÕES
-  { id:'por1', category:'Porções', name:'Alcatra acebolada 500g', desc:'500 gramas.', price:18.00, img:'imagens/alcatra acebolada.jpeg' },
+  { id:'por1', category:'Porções', name:'Alcatra acebolada 500g', desc:'500 gramas.', price:34.90, img:'imagens/alcatra acebolada.jpeg' },
   { id:'por2', category:'Porções', name:'Camarão empanado M-400g', desc:'Média 400 gramas.', price:24.00, img:'categorias img/indisponível no momento.png' },
   { id:'por3', category:'Porções', name:'Batata cheddar e bacon M-500g', desc:'M-500 gramas.', price:24.99, img:'imagens/batata com bacon.jpg' },
   { id:'por4', category:'Porções', name:'Batata simples 500g', desc:'500 gramas.', price:19.90, img:'imagens/batatasimples.jpg' },
